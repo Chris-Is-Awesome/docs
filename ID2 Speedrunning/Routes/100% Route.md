@@ -177,7 +177,7 @@
 - EFCS right door, blue warp, EFCS next door
 - `[Dynamite: 3/3]`, pause warp, leave
  
-## GOING TO SAND CASTLE
+### GOING TO SAND CASTLE
 - To Warp Garden
 - Portal back to Coast
 - Coast outfit `[Outfits: 6/9]`
