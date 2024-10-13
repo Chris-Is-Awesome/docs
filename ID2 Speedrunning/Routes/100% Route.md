@@ -253,10 +253,11 @@ Trigger the credits after collecting all of the following items:
 - Go to checkpoint room from OoB
 - To boss
 - That Guy `[Outfits: 8/9]`
-- To Warp Garden
-- Jenny Berry outfit `[Outfits: 9/9]`
  
 ### TOMB OF SIMULACRUM (PT. 2)
+- To Warp Garden
+- Jenny Berry outfit `[Outfits: 9/9]`
+- Portal to Forbidden Area, return to Tomb of Simulacrum
 - Take all previously opened shortcuts to yellow warp
 - Proceed to NE door, EFCS it
 - Simulacrum `[Loot]`
