@@ -1,11 +1,24 @@
+### Rules
+Trigger the credits after collecting all of the following items:
+- All level 3 upgrades of each item
+- Shards (24)
+- Crayons (20)
+- Outfits (9)
+  - (includes Jenny Berry and That Guy)
+- Dream World cards (41)
+- Forbidden Keys (4)
+- Art Gallery, Secret Art Gallery and Sound Test
+- Big Old Pile o' Loot
+  - Note: Loot won't show in inventory in Forbidden Key slot unless you've used at least one Forbidden Key. However, this is not required, so you can complete the run without using any Forbidden Keys.
+
 ### GOING TO POTASSIUM MINE
 - Turn on easy mode and IGT
 - Unlock exploding Fishbun cave, don't do it yet
 - Autumn Climb `[Tracker 1/3]`
 - Gold Spikebun shard `[Shards: 1/24]`
-- Unlock Pep portal, pause warp
+- To Pep, unlock Pep portal, pause warp
 - NW Pep pick `[Lockpicks: 1]`
-- To Slope, then Lonely
+- To Slope, then Lonely, unlocking Slope warp on the way
 - East Lonely pick `[Lockpicks: 2]`
 - Unlock Forbidden Area portal, pause warp
 - Shortcut to West Lonely
@@ -64,8 +77,8 @@
 - To Frozen
 - Shortcut cave
 - `[Secret Art Gallery]`
-- Frozen Crayon, kill 2 Skullnips on way to 2nd button, touch checkpoint on way to 3rd, pause warp `[Crayons: 3/20]`
-- SE shard `[Shards: 10/24]`
+- Frozen Crayon, kill 3 Skullnips on way to 2nd button, touch checkpoint on way to 3rd, pause warp `[Crayons: 3/20]`
+- SE shard, pause warp `[Shards: 10/24]`
 - To Warp Garden
 - Portal to Pep
 - East Pep `[Sound Test]` and shard, pause warp `[Shards: 11/24]`
@@ -80,12 +93,11 @@
 - Fire Mace `[Melee: 2/3]`
 - Blue warp to Crayon, void out `[Crayons: 4/20]`
 - Grand Library skip
-- Passel `[Rafts: 2/8, Forbidden Keys: 1]`
+- Passel `[Rafts: 2/8, Forbidden Keys: 1/4]`
  
 ### GOING TO TOMB OF SIMULACRUM
 - To Warp Garden
 - Portal to Forbidden Area
-- Insert Forbidden Key into any slot (required for Loot to appear in inventory later) `[Forbidden Keys: 0]`
 - Early Tomb of Simulacrum
  
 ### TOMB OF SIMULACRUM (PT. 1)
@@ -137,9 +149,10 @@
 - Enter Sunken Labyrinth
  
 ### SUNKEN LABYRINTH
-- Force shortcut to Forcewand `[Forcewand: 2/3]`
+- Take shortcut to Forcewand `[Forcewand: 2/3]`
 - Go through the 3 SE doors, EFCSing each one to crayon `[Crayons: 11/20]`
-- Pause warp, leave
+- EFCS locked door after crayon, proceed to red warp
+- Mechabun I [Forbidden Keys: 2/4]
  
 ### GOING TO PILLOW FORT
 - Fluffy warp glitch
@@ -175,8 +188,10 @@
 - EFCS both doors at same time
 - Crayon `[Crayons: 15/20]`
 - EFCS right door, blue warp, EFCS next door
-- `[Dynamite: 3/3]`, pause warp, leave
- 
+- `[Dynamite: 3/3]`
+- To boss
+- Mechabun II [Forbidden Keys: 3/4]
+
 ### GOING TO SAND CASTLE
 - To Warp Garden
 - Portal back to Coast
@@ -206,7 +221,10 @@
 - EFCS entrance door, crayon, pause warp `[Crayons: 18/20]`
 - North key, NW locked door, yellow warp
 - Key after yellow warp, use it on locked door
-- `[Ice Ring: 3/3]`, pause warp out, return to Trash Cave
+- `[Ice Ring: 3/3]`, pause warp
+- EFCS NE door and all doors to boss
+- Mechabun III [Forbidden Keys: 4/4]
+- Return to Trash Cave
  
 ### TRASH CAVE (PT. 2)
 - Go through blue warp room to crayon through Chain shortcut, EFCS crayon chest `[Crayons: 19/20]`
