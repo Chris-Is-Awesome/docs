@@ -17,15 +17,14 @@ Trigger the credits after collecting all of the following items:
 - Autumn Climb `[Tracker 1/3]`
 - Gold Spikebun shard `[Shards: 1/24]`
 - To Pep, unlock Pep portal, pause warp
-- NW Pep pick `[Lockpicks: 1]`
 - To Slope, then Lonely, unlocking Slope warp on the way
-- East Lonely pick `[Lockpicks: 2]`
+- East Lonely pick `[Lockpicks: 1]`
 - Unlock Forbidden Area portal, pause warp
 - Shortcut to West Lonely
 - Unlock outfit cave, don't do it yet
 - Moon Garden `[Chain 1/3]`
 - To Warp Garden, portal to Slope
-- North Slope pick, pause warp `[Lockpicks: 3]`
+- North Slope pick, pause warp `[Lockpicks: 2]`
 - Return to Warp Garden
 - Portal to Pep
 - Take path to Pep Mountain, get peaceful Brutus shard on the way `[Shards: 2/24]`
@@ -42,7 +41,7 @@ Trigger the credits after collecting all of the following items:
 - Nearby shard, pause warp `[Shards: 3/24]`
 - Nearby outfit, pause warp `[Outfits: 1/9]`
 - Shortcut to East Star
-- East pick `[Lockpicks: 4]`
+- East pick `[Lockpicks: 3]`
 - Former Colossus/Ludo City `[Art Gallery, Dynamite 1/3]`
 - Shortcut to Trash Cave, touch checkpoint
 - Musical notes shard, pause warp `[Shards: 4/24]`
@@ -56,7 +55,7 @@ Trigger the credits after collecting all of the following items:
 - To Warp Garden
 - To Fancy
 - Nearby Shard `[Shards: 6/24]`
-- Nearby pick `[Lockpicks: 5]`
+- Nearby pick `[Lockpicks: 4]`
 - Enter Art Exhibit
  
 ### ART EXHIBIT
@@ -82,7 +81,7 @@ Trigger the credits after collecting all of the following items:
 - To Warp Garden
 - Portal to Pep
 - East Pep `[Sound Test]` and shard, pause warp `[Shards: 11/24]`
-- Brutus shard, pause warp `[Shards: 12/24]`
+- Brutus shard, NW pick, pause warp `[Shards: 12/24, Lockpicks: 5]`
 - Promenade Path `[Tome: 1/3]`
 - Return to Warp Garden
 - Portal to Lonely
