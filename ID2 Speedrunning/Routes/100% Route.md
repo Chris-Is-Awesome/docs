@@ -103,6 +103,7 @@ Trigger the credits after collecting all of the following items:
 - Kill 3x Dark Oglers (lightning on 1st one, so just blitz one)
 - 4 crystals key `[Keys: 1]`
 - Up through next 3 rooms, then left to red warp `[Keys: 0, Lockpicks: 4]`
+- Unlock shortcut to entrance room
 - Up through all rooms to yellow warp, getting the crayon on the way `[Crayons: 5/20, Lockpicks: 1]`
 - To green warp, getting all keys 5 keys on the way and using 2 of them `[Keys: 3]`
 - To EFCS `[Keys: 0, Melee: 3/3]`
